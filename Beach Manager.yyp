@@ -15,9 +15,11 @@
     {"id":{"name":"spr_sand_test","path":"sprites/spr_sand_test/spr_sand_test.yy",},"order":2,},
     {"id":{"name":"obj_moduleparent","path":"objects/obj_moduleparent/obj_moduleparent.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_crab_backup","path":"sprites/spr_crab_backup/spr_crab_backup.yy",},"order":11,},
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":2,},
     {"id":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},"order":3,},
     {"id":{"name":"spr_module_test","path":"sprites/spr_module_test/spr_module_test.yy",},"order":1,},
+    {"id":{"name":"obj_crab_sprite","path":"objects/obj_crab_sprite/obj_crab_sprite.yy",},"order":1,},
     {"id":{"name":"obj_basin_sprite","path":"objects/obj_basin_sprite/obj_basin_sprite.yy",},"order":0,},
     {"id":{"name":"spr_char_test","path":"sprites/spr_char_test/spr_char_test.yy",},"order":0,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":1,},
@@ -41,9 +43,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
-    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -65,7 +67,7 @@
     {"folderPath":"folders/Objects/Creatures.yy","order":1,"resourceVersion":"1.0","name":"Creatures","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Modules.yy","order":3,"resourceVersion":"1.0","name":"Modules","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Abstract.yy","order":4,"resourceVersion":"1.0","name":"Abstract","tags":[],"resourceType":"GMFolder",},
-	{"folderPath":"folders/Objects/Sprite Objects.yy","order":2,"resourceVersion":"1.0","name":"Sprite Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Sprite Objects.yy","order":2,"resourceVersion":"1.0","name":"Sprite Objects","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -75,7 +77,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",
