@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_module_test",
-    "path": "sprites/spr_module_test/spr_module_test.yy",
+    "name": "spr_hydro_basin",
+    "path": "sprites/spr_hydro_basin/spr_hydro_basin.yy",
   },
   "solid": false,
   "visible": true,
