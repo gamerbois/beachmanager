@@ -5,6 +5,7 @@
     {"id":{"name":"attack","path":"scripts/attack/attack.yy",},"order":2,},
     {"id":{"name":"spr_crab","path":"sprites/spr_crab/spr_crab.yy",},"order":10,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":1,},
+    {"id":{"name":"spr_invis_wall_test","path":"sprites/spr_invis_wall_test/spr_invis_wall_test.yy",},"order":3,},
     {"id":{"name":"spr_hydro_basin_backup","path":"sprites/spr_hydro_basin_backup/spr_hydro_basin_backup.yy",},"order":9,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"obj_hydrobasin","path":"objects/obj_hydrobasin/obj_hydrobasin.yy",},"order":1,},
@@ -56,8 +57,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
@@ -90,7 +91,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",
