@@ -25,10 +25,10 @@
   "gridY": 4,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"a5a9bb3e-076f-48db-9432-97c84a47ed16","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"30ea4f0a-10f0-42c6-aa69-e720ca982eb9","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"9b2f5b23-9532-4e54-85e1-3ef17fdfe341","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"acf4b693-6573-40ae-bdf9-f0195bce70d9","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"a5a9bb3e-076f-48db-9432-97c84a47ed16","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":{"name":"6db360f3-d19b-49a5-98be-98d9fdbd19aa","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_crab","path":"sprites/spr_crab/spr_crab.yy",},"resourceVersion":"1.0","name":"24ada9ab-2710-4d02-9cc2-b188b9c27551","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"85a7562e-b85d-475a-8afb-284d203b54b6","path":"sprites/spr_crab/spr_crab.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
