@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_capt_trash","path":"sprites/spr_capt_trash/spr_capt_trash.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
+    {"id":{"name":"attack","path":"scripts/attack/attack.yy",},"order":2,},
     {"id":{"name":"spr_crab","path":"sprites/spr_crab/spr_crab.yy",},"order":10,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":1,},
     {"id":{"name":"spr_hydro_basin_backup","path":"sprites/spr_hydro_basin_backup/spr_hydro_basin_backup.yy",},"order":9,},
@@ -15,8 +16,9 @@
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":2,},
     {"id":{"name":"spr_grab_test","path":"sprites/spr_grab_test/spr_grab_test.yy",},"order":2,},
     {"id":{"name":"spr_sand_test","path":"sprites/spr_sand_test/spr_sand_test.yy",},"order":2,},
-    {"id":{"name":"obj_moduleparent","path":"objects/obj_moduleparent/obj_moduleparent.yy",},"order":0,},
+    {"id":{"name":"obj_moduleparent","path":"objects/obj_moduleparent/obj_moduleparent.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_crab","path":"objects/obj_crab/obj_crab.yy",},"order":1,},
     {"id":{"name":"check_grab","path":"scripts/check_grab/check_grab.yy",},"order":1,},
     {"id":{"name":"spr_crab_backup","path":"sprites/spr_crab_backup/spr_crab_backup.yy",},"order":11,},
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":2,},

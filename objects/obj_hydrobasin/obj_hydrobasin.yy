@@ -6,7 +6,7 @@
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": {
     "name": "obj_moduleparent",
     "path": "objects/obj_moduleparent/obj_moduleparent.yy",
