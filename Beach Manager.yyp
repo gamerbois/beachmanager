@@ -32,6 +32,7 @@
     {"id":{"name":"obj_monkey_spawn1","path":"objects/obj_monkey_spawn1/obj_monkey_spawn1.yy",},"order":3,},
     {"id":{"name":"spr_char_test","path":"sprites/spr_char_test/spr_char_test.yy",},"order":0,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":1,},
+    {"id":{"name":"obj_animate_box","path":"objects/obj_animate_box/obj_animate_box.yy",},"order":5,},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"order":5,},
     {"id":{"name":"obj_collidable","path":"objects/obj_collidable/obj_collidable.yy",},"order":0,},
     {"id":{"name":"spr_sand_test_backup","path":"sprites/spr_sand_test_backup/spr_sand_test_backup.yy",},"order":3,},
