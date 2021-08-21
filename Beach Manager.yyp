@@ -47,9 +47,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -81,7 +81,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",

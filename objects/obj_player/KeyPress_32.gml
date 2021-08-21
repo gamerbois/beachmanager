@@ -2,16 +2,18 @@ grab = check_grab(self)
 
 if self.grabbing { 
 	
-	self.grab_obj = -1
+	self.grab_obj.pulling = false
+	self.grab_obj = noone
 	self.grabbing = false 
 	
 }
-else if grab != -1 { 
+
+else if grab != noone {
 	
 	self.grab_obj = grab
 	self.grabbing = true
+	grab_obj.pulling = true
 	
 }
 
-show_debug_message(string(self.grabbing))
-show_debug_message(string(self.grab_obj))
+show_debug_message(grab_obj)

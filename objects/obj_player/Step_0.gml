@@ -3,6 +3,12 @@ if self.move_direction == 1 and move_lock == true {
 	
 	self.y -= self.move_distance / self.move_frames;
 	
+	if self.grab_obj != noone {
+		
+		grab_obj.y -= self.move_distance / self.move_frames;
+		
+	}
+	
 	if self.move_lock_time >= self.move_frames - 1 {
 		
 		self.move_lock = false;
@@ -18,7 +24,13 @@ if self.move_direction == 1 and move_lock == true {
 // right
 } else if self.move_direction == 2 and move_lock == true {
 	
-	self.x += self.move_distance / self.move_frames;;
+	self.x += self.move_distance / self.move_frames;
+	
+	if self.grab_obj != noone {
+		
+		grab_obj.x += self.move_distance / self.move_frames;
+		
+	}
 	
 	if self.move_lock_time >= self.move_frames - 1 {
 		
@@ -35,7 +47,13 @@ if self.move_direction == 1 and move_lock == true {
 // down
 } else if self.move_direction == 3 and move_lock == true {
 
-	self.y += self.move_distance / self.move_frames;;
+	self.y += self.move_distance / self.move_frames;
+	
+	if self.grab_obj != noone {
+		
+		grab_obj.y += self.move_distance / self.move_frames;
+		
+	}
 	
 	if self.move_lock_time >= self.move_frames - 1 {
 		
@@ -52,7 +70,13 @@ if self.move_direction == 1 and move_lock == true {
 // left
 } else if self.move_direction == 4 and move_lock == true {
 	
-	self.x -= self.move_distance / self.move_frames;;
+	self.x -= self.move_distance / self.move_frames;
+	
+	if self.grab_obj != noone {
+		
+		grab_obj.x -= self.move_distance / self.move_frames;
+		
+	}
 	
 	if self.move_lock_time >= self.move_frames - 1 {
 		
