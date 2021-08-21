@@ -15,6 +15,7 @@
     {"id":{"name":"spr_sand_test","path":"sprites/spr_sand_test/spr_sand_test.yy",},"order":2,},
     {"id":{"name":"obj_moduleparent","path":"objects/obj_moduleparent/obj_moduleparent.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"check_grab","path":"scripts/check_grab/check_grab.yy",},"order":1,},
     {"id":{"name":"spr_crab_backup","path":"sprites/spr_crab_backup/spr_crab_backup.yy",},"order":11,},
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":2,},
     {"id":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},"order":3,},
