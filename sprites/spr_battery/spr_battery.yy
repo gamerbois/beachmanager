@@ -9,7 +9,7 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 107,
-  "bbox_top": 4,
+  "bbox_top": 0,
   "bbox_bottom": 95,
   "HTile": false,
   "VTile": false,
@@ -26,27 +26,35 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"5dc81639-98e1-4519-a718-12139df45f02","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"5dc81639-98e1-4519-a718-12139df45f02","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"5dc81639-98e1-4519-a718-12139df45f02","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"5dc81639-98e1-4519-a718-12139df45f02","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"c5bb77d3-ca32-4107-83a7-6bfed5bfe5a4","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"c5bb77d3-ca32-4107-83a7-6bfed5bfe5a4","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"c5bb77d3-ca32-4107-83a7-6bfed5bfe5a4","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"c5bb77d3-ca32-4107-83a7-6bfed5bfe5a4","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"ff242b47-43a9-4e7e-88a1-570244822306","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"ff242b47-43a9-4e7e-88a1-570244822306","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"ff242b47-43a9-4e7e-88a1-570244822306","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"ff242b47-43a9-4e7e-88a1-570244822306","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"466ca4c1-fd4d-4207-b6bc-16dcb6d2effe","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"466ca4c1-fd4d-4207-b6bc-16dcb6d2effe","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"466ca4c1-fd4d-4207-b6bc-16dcb6d2effe","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"466ca4c1-fd4d-4207-b6bc-16dcb6d2effe","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"e7a49a89-9b1f-4dcc-a109-3923a9119aff","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"e7a49a89-9b1f-4dcc-a109-3923a9119aff","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e7a49a89-9b1f-4dcc-a109-3923a9119aff","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"e7a49a89-9b1f-4dcc-a109-3923a9119aff","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"ab28c0df-f3b9-4e04-9fda-7320a0a3acfb","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"ab28c0df-f3b9-4e04-9fda-7320a0a3acfb","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"ab28c0df-f3b9-4e04-9fda-7320a0a3acfb","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"ab28c0df-f3b9-4e04-9fda-7320a0a3acfb","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"ca77ca11-8544-4045-9dd0-93a57dc000ab","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"ca77ca11-8544-4045-9dd0-93a57dc000ab","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"ca77ca11-8544-4045-9dd0-93a57dc000ab","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"ca77ca11-8544-4045-9dd0-93a57dc000ab","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"f45be555-da9d-42bf-9c98-1c35a58a5d22","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"f45be555-da9d-42bf-9c98-1c35a58a5d22","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f45be555-da9d-42bf-9c98-1c35a58a5d22","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"f45be555-da9d-42bf-9c98-1c35a58a5d22","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -94,6 +102,7 @@
   },
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"b90a96f4-aa1c-46d7-addd-e731a3c54d6f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
