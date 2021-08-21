@@ -20,7 +20,6 @@
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":2,},
     {"id":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},"order":3,},
     {"id":{"name":"spr_module_test","path":"sprites/spr_module_test/spr_module_test.yy",},"order":1,},
-    {"id":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"order":12,},
     {"id":{"name":"obj_crab_sprite","path":"objects/obj_crab_sprite/obj_crab_sprite.yy",},"order":1,},
     {"id":{"name":"obj_basin_sprite","path":"objects/obj_basin_sprite/obj_basin_sprite.yy",},"order":0,},
     {"id":{"name":"spr_char_test","path":"sprites/spr_char_test/spr_char_test.yy",},"order":0,},
@@ -45,9 +44,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -79,7 +78,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",

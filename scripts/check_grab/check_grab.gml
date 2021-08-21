@@ -7,6 +7,6 @@ function check_grab(grabbing_obj)
 		return instance_place(self.x, self.y - grabbing_obj.move_distance, obj_moduleparent)
 		
 	} else {
-		return -1
+		return noone
 	}
 }
