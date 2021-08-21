@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_capt_trash","path":"sprites/spr_capt_trash/spr_capt_trash.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
+    {"id":{"name":"spr_crab","path":"sprites/spr_crab/spr_crab.yy",},"order":10,},
     {"id":{"name":"spr_hydro_basin_backup","path":"sprites/spr_hydro_basin_backup/spr_hydro_basin_backup.yy",},"order":9,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"obj_hydrobasin","path":"objects/obj_hydrobasin/obj_hydrobasin.yy",},"order":1,},
