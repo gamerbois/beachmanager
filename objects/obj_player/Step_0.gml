@@ -1,9 +1,9 @@
 // up
 if self.move_direction == 1 and move_lock == true {
 	
-	self.y -= 40;
+	self.y -= self.move_distance / self.move_frames;
 	
-	if self.move_lock_time >= 2 {
+	if self.move_lock_time >= self.move_frames - 1 {
 		
 		self.move_lock = false;
 		self.move_lock_time = 0;
@@ -16,11 +16,11 @@ if self.move_direction == 1 and move_lock == true {
 	}
 	
 // right
-} else if self.move_direction == 2 {
+} else if self.move_direction == 2 and move_lock == true {
 	
-	self.x += 40;
+	self.x += self.move_distance / self.move_frames;;
 	
-	if self.move_lock_time >= 2 {
+	if self.move_lock_time >= self.move_frames - 1 {
 		
 		self.move_lock = false;
 		self.move_lock_time = 0;
@@ -33,11 +33,11 @@ if self.move_direction == 1 and move_lock == true {
 	}
 	
 // down
-} else if self.move_direction == 3 {
+} else if self.move_direction == 3 and move_lock == true {
 
-	self.y += 40;
+	self.y += self.move_distance / self.move_frames;;
 	
-	if self.move_lock_time >= 2 {
+	if self.move_lock_time >= self.move_frames - 1 {
 		
 		self.move_lock = false;
 		self.move_lock_time = 0;
@@ -50,11 +50,11 @@ if self.move_direction == 1 and move_lock == true {
 	}
 	
 // left
-} else if self.move_direction == 4 {
+} else if self.move_direction == 4 and move_lock == true {
 	
-	self.x -= 40;
+	self.x -= self.move_distance / self.move_frames;;
 	
-	if self.move_lock_time >= 2 {
+	if self.move_lock_time >= self.move_frames - 1 {
 		
 		self.move_lock = false;
 		self.move_lock_time = 0;

@@ -2,10 +2,16 @@
   "resources": [
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
+    {"id":{"name":"obj_hydrobasin","path":"objects/obj_hydrobasin/obj_hydrobasin.yy",},"order":1,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"check_movement","path":"scripts/check_movement/check_movement.yy",},"order":0,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":2,},
+    {"id":{"name":"spr_grab_test","path":"sprites/spr_grab_test/spr_grab_test.yy",},"order":2,},
     {"id":{"name":"spr_sand_test","path":"sprites/spr_sand_test/spr_sand_test.yy",},"order":2,},
+    {"id":{"name":"obj_moduleparent","path":"objects/obj_moduleparent/obj_moduleparent.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":2,},
+    {"id":{"name":"spr_module_test","path":"sprites/spr_module_test/spr_module_test.yy",},"order":1,},
     {"id":{"name":"spr_char_test","path":"sprites/spr_char_test/spr_char_test.yy",},"order":0,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":1,},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"order":5,},
@@ -28,6 +34,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -47,6 +54,7 @@
     {"folderPath":"folders/Sprites/Sprite Rips.yy","order":1,"resourceVersion":"1.0","name":"Sprite Rips","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Programmer Art.yy","order":3,"resourceVersion":"1.0","name":"Programmer Art","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Creatures.yy","order":1,"resourceVersion":"1.0","name":"Creatures","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Modules.yy","order":3,"resourceVersion":"1.0","name":"Modules","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -56,7 +64,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",
