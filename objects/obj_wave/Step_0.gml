@@ -17,8 +17,6 @@ if self.move_lock = false and self.move_direction = 0 and check_movement(self, 0
 	self.attack_timer += 1
 	
 	attack(instance_place(self.x, self.y - self.move_distance, obj_moduleparent))
-	attack(instance_place(self.x + self.move_distance, self.y - self.move_distance, obj_moduleparent))
-	attack(instance_place(self.x + (self.move_distance * 2), self.y - self.move_distance, obj_moduleparent))
 	
 }
 
@@ -58,15 +56,16 @@ if self.move_direction == 0 and move_lock == true {
 
 
 // DIE OFF MAP
-if self.move_count == 22 {
+if self.move_count == 6 + (self.beach_coverage * 2) {
 	
 	attack(self)
 	
 }
 
 
-// DIRECTION CHANGER
-if self.move_count == 11 { 
+// DIRECTION CHANGER AND SPEED CONTROLLER
+if self.move_count == 2 { self.move_frames = 30 }
+else if self.move_count == 4 + self.beach_coverage { 
 	
 	self.move_direction = 0
 	self.move_frames = 10

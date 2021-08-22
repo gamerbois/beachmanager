@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_wave_large",
-    "path": "sprites/spr_wave_large/spr_wave_large.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -29,14 +26,15 @@
     {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_lock","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_lock_time","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"120","rangeEnabled":true,"rangeMin":120.0,"rangeMax":120.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_distance","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":1,"value":"40","rangeEnabled":true,"rangeMin":1.0,"rangeMax":60.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_frames","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"200","rangeEnabled":true,"rangeMin":1.0,"rangeMax":240.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_frames","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"grabbing","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"move_count","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"4","rangeEnabled":true,"rangeMin":1.0,"rangeMax":4.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"beach_coverage","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Creatures",
-    "path": "folders/Objects/Creatures.yy",
+    "name": "Abstract",
+    "path": "folders/Objects/Abstract.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wave",
