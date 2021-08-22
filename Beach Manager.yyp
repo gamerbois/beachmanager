@@ -11,6 +11,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"obj_hydrobasin","path":"objects/obj_hydrobasin/obj_hydrobasin.yy",},"order":1,},
     {"id":{"name":"obj_seamonkey","path":"objects/obj_seamonkey/obj_seamonkey.yy",},"order":2,},
+    {"id":{"name":"obj_wave","path":"objects/obj_wave/obj_wave.yy",},"order":3,},
     {"id":{"name":"spr_sea_monkey_spawning","path":"sprites/spr_sea_monkey_spawning/spr_sea_monkey_spawning.yy",},"order":14,},
     {"id":{"name":"spr_capt_trash_backup","path":"sprites/spr_capt_trash_backup/spr_capt_trash_backup.yy",},"order":8,},
     {"id":{"name":"spr_hydro_basin","path":"sprites/spr_hydro_basin/spr_hydro_basin.yy",},"order":7,},
@@ -98,7 +99,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Beach Manager",

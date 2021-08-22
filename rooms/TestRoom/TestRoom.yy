@@ -25,6 +25,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_collidable","path":"objects/obj_collidable/obj_collidable.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":16.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":960.0,"resourceVersion":"1.0","name":"inst_1886890E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_seamonkey","path":"objects/obj_seamonkey/obj_seamonkey.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1320.0,"y":-240.0,"resourceVersion":"1.0","name":"inst_1F46393A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_hydrobasin","path":"objects/obj_hydrobasin/obj_hydrobasin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":120.0,"y":720.0,"resourceVersion":"1.0","name":"inst_36F13825","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_wave","path":"objects/obj_wave/obj_wave.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":240.0,"y":-1200.0,"resourceVersion":"1.0","name":"inst_72BDA25B","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":120,"gridY":120,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":9,"TileSerialiseData":[
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
@@ -54,6 +55,7 @@
     {"name":"inst_1886890E","path":"rooms/TestRoom/TestRoom.yy",},
     {"name":"inst_1F46393A","path":"rooms/TestRoom/TestRoom.yy",},
     {"name":"inst_36F13825","path":"rooms/TestRoom/TestRoom.yy",},
+    {"name":"inst_72BDA25B","path":"rooms/TestRoom/TestRoom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

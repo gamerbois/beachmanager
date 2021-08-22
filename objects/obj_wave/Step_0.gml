@@ -1,12 +1,12 @@
 // MOVEMENT
 
-if self.move_lock = false and self.move_direction = 0 and check_movement(self, 0, 2) <= 0 {
+if self.move_lock = false and self.move_direction = 0 and check_movement(self, 0, 3) <= 0 {
 	
 	self.move_lock = true
 	self.attack_timer = 0
 	self.move_count += 1
 	
-} else if self.move_lock = false and self.move_direction = 1 and check_movement(self, 1, 2) <= 0 {
+} else if self.move_lock = false and self.move_direction = 1 and check_movement(self, 1, 3) <= 0 {
 	
 	self.move_lock = true
 	self.attack_timer = 0
@@ -16,8 +16,9 @@ if self.move_lock = false and self.move_direction = 0 and check_movement(self, 0
 	
 	self.attack_timer += 1
 	
-	if self.attack_timer >= 150 and self.move_direction == 0 { attack(instance_place(self.x, self.y - self.move_distance, obj_moduleparent)) }
-	else if self.attack_timer >= 150 and self.move_direction == 1 { attack(instance_place(self.x, self.y + self.move_distance, obj_moduleparent)) }
+	attack(instance_place(self.x, self.y - self.move_distance, obj_moduleparent))
+	attack(instance_place(self.x + self.move_distance, self.y - self.move_distance, obj_moduleparent))
+	attack(instance_place(self.x + (self.move_distance * 2), self.y - self.move_distance, obj_moduleparent))
 	
 }
 
@@ -57,19 +58,17 @@ if self.move_direction == 0 and move_lock == true {
 
 
 // DIE OFF MAP
-if self.y > room_width + 121 or self.y < -241 {
+if self.move_count == 22 {
 	
 	attack(self)
 	
 }
 
 
-// SPRITE SETTER
-if self.move_count == 3 and image_index != 1 { image_index = 1 }
-else if self.move_count == 4 and sprite_index != spr_sea_monkey { 
+// DIRECTION CHANGER
+if self.move_count == 11 { 
 	
-	sprite_index = spr_sea_monkey 
-	image_speed = 1
-	self.move_frames = 15
+	self.move_direction = 0
+	self.move_frames = 10
 	
 }
