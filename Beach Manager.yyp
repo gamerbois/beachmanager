@@ -31,6 +31,7 @@
     {"id":{"name":"spr_wave_large","path":"sprites/spr_wave_large/spr_wave_large.yy",},"order":19,},
     {"id":{"name":"spr_walkie","path":"sprites/spr_walkie/spr_walkie.yy",},"order":23,},
     {"id":{"name":"check_grab","path":"scripts/check_grab/check_grab.yy",},"order":1,},
+    {"id":{"name":"obj_shade_indicator","path":"objects/obj_shade_indicator/obj_shade_indicator.yy",},"order":1,},
     {"id":{"name":"spr_box_float","path":"sprites/spr_box_float/spr_box_float.yy",},"order":15,},
     {"id":{"name":"spr_crab_backup","path":"sprites/spr_crab_backup/spr_crab_backup.yy",},"order":11,},
     {"id":{"name":"obj_sea_monkey_sprite","path":"objects/obj_sea_monkey_sprite/obj_sea_monkey_sprite.yy",},"order":4,},

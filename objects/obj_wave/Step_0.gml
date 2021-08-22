@@ -17,8 +17,6 @@ if self.move_lock = false and self.move_direction = 0 and check_movement(self, 0
 	self.attack_timer += 1
 	
 	attack(instance_place(self.x, self.y - self.move_distance, obj_moduleparent))
-	if sprite_width > 230 attack(instance_place(self.x + self.move_distance, self.y - self.move_distance, obj_moduleparent))
-	if sprite_width > 350 attack(instance_place(self.x + (self.move_distance * 2), self.y - self.move_distance, obj_moduleparent))
 	
 }
 

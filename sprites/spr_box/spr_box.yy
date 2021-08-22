@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 23,
-  "bbox_right": 96,
-  "bbox_top": 23,
-  "bbox_bottom": 73,
+  "bbox_left": 0,
+  "bbox_right": 119,
+  "bbox_top": 0,
+  "bbox_bottom": 119,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -25,16 +25,16 @@
   "gridY": 1,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"706fff95-0e21-4ea6-b0e9-1bb6d0b8fba9","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"99f4eee0-8d4b-414b-8c40-df36f649b0d3","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"98bf2524-5eaa-4ab6-8c6e-5bdab4a19de7","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"8f71ff19-f9cf-4910-aa79-b01ff249342d","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"0d152313-7e32-4d98-84e3-69a64c36e127","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"706fff95-0e21-4ea6-b0e9-1bb6d0b8fba9","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"0d152313-7e32-4d98-84e3-69a64c36e127","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"706fff95-0e21-4ea6-b0e9-1bb6d0b8fba9","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"99f4eee0-8d4b-414b-8c40-df36f649b0d3","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"98bf2524-5eaa-4ab6-8c6e-5bdab4a19de7","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"8f71ff19-f9cf-4910-aa79-b01ff249342d","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","path":"sprites/spr_box/spr_box.yy",},"LayerId":{"name":"706fff95-0e21-4ea6-b0e9-1bb6d0b8fba9","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"resourceVersion":"1.0","name":"60e39edd-e2f4-4edb-b31b-d4e3f74e17b5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
