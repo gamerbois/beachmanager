@@ -17,6 +17,22 @@ function check_movement(moving_obj, move_direction, mode)
 			
 		}
 	
+	} else if argument[2] == 2 {
+		
+		if move_direction == 0 {
+			
+			return instance_place(moving_obj.x, moving_obj.y - moving_obj.move_distance, obj_moduleparent)
+			
+		} else if move_direction == 1 {
+			
+			return instance_place(moving_obj.x, moving_obj.y + moving_obj.move_distance, obj_moduleparent)
+			
+		} else {
+			
+			return -1
+			
+		}
+	
 	} else if moving_obj.grabbing == false {
 		
 		if move_direction == 1 {
