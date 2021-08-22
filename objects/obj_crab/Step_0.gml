@@ -1,11 +1,11 @@
 // MOVEMENT
 
-if self.move_lock = false and (check_movement(self, 2, 1) <= 0) {
+if self.move_lock = false and (check_movement(self, 0, 1) <= 0) {
 	
 	self.move_lock = true
 	self.attack_timer = 0
 	
-} else if check_movement(self, 2, 1) > 0 { 
+} else if check_movement(self, 0, 1) > 0 { 
 	
 	self.attack_timer += 1
 	
