@@ -65,8 +65,8 @@ if self.y > room_width + 121 or self.y < -241 {
 
 
 // SPRITE SETTER
-if self.move_count == 3 and image_index != 1 { image_index = 1 }
-else if self.move_count == 4 and sprite_index != spr_sea_monkey { 
+if self.move_count == 2 and image_index != 1 { image_index = 1 }
+else if self.move_count == 3 and sprite_index != spr_sea_monkey { 
 	
 	sprite_index = spr_sea_monkey 
 	image_speed = 1
