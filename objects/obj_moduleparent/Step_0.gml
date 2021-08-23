@@ -14,4 +14,6 @@ if self.y >= game.shade {
 	
 }
 
+image_index = self.solar_level
+
 draw_text_transformed(self.x, self.y + 60, string(self.solar_level), self.x + 120, self.y + 180, 1)
