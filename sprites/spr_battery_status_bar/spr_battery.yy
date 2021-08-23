@@ -21,8 +21,8 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 4,
-  "gridY": 4,
+  "gridX": 2,
+  "gridY": 2,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"5dc81639-98e1-4519-a718-12139df45f02","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"5dc81639-98e1-4519-a718-12139df45f02","path":"sprites/spr_battery/spr_battery.yy",},"LayerId":{"name":"dfef5ce2-dbe7-42fc-b4e9-9c70c8ac0943","path":"sprites/spr_battery/spr_battery.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
