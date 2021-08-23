@@ -21,15 +21,18 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 3,
-  "gridY": 3,
+  "gridX": 1,
+  "gridY": 1,
   "frames": [
+    {"compositeImage":{"FrameId":{"name":"b061c853-d2d9-4282-872b-831e48b6bdad","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b061c853-d2d9-4282-872b-831e48b6bdad","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":{"name":"db8b2303-9caf-42b1-9c5a-9d9eb9bbe4f2","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_alarm_clock","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"b061c853-d2d9-4282-872b-831e48b6bdad","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"36febc3e-9bd3-427c-b5d3-07110e0b9663","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"36febc3e-9bd3-427c-b5d3-07110e0b9663","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":{"name":"db8b2303-9caf-42b1-9c5a-9d9eb9bbe4f2","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_alarm_clock","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"36febc3e-9bd3-427c-b5d3-07110e0b9663","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"14e0d6b5-dd3e-49e2-90ba-a32e947fc6f1","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"14e0d6b5-dd3e-49e2-90ba-a32e947fc6f1","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":{"name":"db8b2303-9caf-42b1-9c5a-9d9eb9bbe4f2","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_alarm_clock","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"14e0d6b5-dd3e-49e2-90ba-a32e947fc6f1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc214db0-4202-4392-8984-c8f69543bb9c","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc214db0-4202-4392-8984-c8f69543bb9c","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"LayerId":{"name":"db8b2303-9caf-42b1-9c5a-9d9eb9bbe4f2","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_alarm_clock","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","name":"dc214db0-4202-4392-8984-c8f69543bb9c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_alarm_clock","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},
@@ -39,13 +42,14 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 2.0,
+    "length": 3.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"82ab9398-ec39-4c37-8a1f-2c1d656050cd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"36febc3e-9bd3-427c-b5d3-07110e0b9663","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"aa5e0406-80b2-4f64-8632-67668d3f2281","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"14e0d6b5-dd3e-49e2-90ba-a32e947fc6f1","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7073c3c7-f21c-4bc0-aab0-5bb70faf2632","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b061c853-d2d9-4282-872b-831e48b6bdad","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"82ab9398-ec39-4c37-8a1f-2c1d656050cd","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"36febc3e-9bd3-427c-b5d3-07110e0b9663","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d01013f3-6ad9-4bb3-aa66-9a032d61227d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc214db0-4202-4392-8984-c8f69543bb9c","path":"sprites/spr_alarm_clock/spr_alarm_clock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
