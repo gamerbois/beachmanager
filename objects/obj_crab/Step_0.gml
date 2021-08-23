@@ -55,7 +55,7 @@ if self.move_direction == 0 and move_lock == true {
 
 
 // DIE OFF MAP
-if self.x > room_width {
+if self.x > room_width + 240 or self.x < -240 {
 	
 	attack(self)
 	
