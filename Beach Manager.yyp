@@ -94,8 +94,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"roomId":{"name":"test_of_final_room","path":"rooms/test_of_final_room/test_of_final_room.yy",},},
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"roomId":{"name":"Sprite_test_room","path":"rooms/Sprite_test_room/Sprite_test_room.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
