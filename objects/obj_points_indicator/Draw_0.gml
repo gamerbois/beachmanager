@@ -1,0 +1,1 @@
+draw_text(self.x, self.y, self.value)

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_module_test",
-    "path": "sprites/spr_module_test/spr_module_test.yy",
+    "name": "spr_can",
+    "path": "sprites/spr_can/spr_can.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,11 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [],
-  "properties": [],
+  "properties": [
+    {"varType":1,"value":"0","rangeEnabled":true,"rangeMin":0.0,"rangeMax":9.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"charge","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"10","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"points_reward","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"2","rangeEnabled":true,"rangeMin":2.0,"rangeMax":2.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"max_charge","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Modules",

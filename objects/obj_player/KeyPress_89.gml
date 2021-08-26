@@ -1,1 +1,1 @@
-spawn_monke()
+if room_get_name(room) == "TestRoom" { spawn_monke() }

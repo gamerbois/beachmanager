@@ -1,2 +1,1 @@
-audio_stop_sound(snd_waveloop)
-audio_stop_sound(snd_dayloop)
+audio_stop_all()

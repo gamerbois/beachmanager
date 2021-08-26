@@ -1,1 +1,1 @@
-spawn_wave()
+if room_get_name(room) == "TestRoom" { spawn_wave() }
